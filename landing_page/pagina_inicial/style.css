@@ -1,0 +1,140 @@
+* {
+    margin:  0px auto;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background: url(./img_inicial/Strip-Patterns.png) no-repeat;
+    background-size: 100%;
+    max-width: 1500px;
+    max-height: 1000px;
+    background-color: #F8C7C8;
+}
+
+.nav {
+    width: 1150px;
+    height: 100px;
+}
+
+.nav img {
+    width: 120px;
+    height: 110px;
+    float: left;
+}
+
+.menu {
+    height: 100px;
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu ul {
+    width: 400px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.quote  {
+    background-color: #8468F5;
+    width: 97px;
+    height: 30px;
+    border-radius: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.quote a {
+    color: white;
+}
+
+.home a{
+    color: #8468F5;
+    text-decoration: underline;
+}
+
+.img-rigth {
+    float: right;
+    width: 700px;
+    height: 500px;
+}
+
+.img-rigth img{
+    width: 700px;
+    height: 500px;
+}
+
+.left {
+    width: 450px;
+    height: 460px;
+    margin-left: 55px;
+    float: left;
+    display: flex;
+    /* justify-content: end; */
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.left h3 {
+    font: bold;
+
+}
+
+.color_shapes {
+    color: #8468F5;
+}
+
+.conteudo_left {
+    margin-top: 60px;
+    width: 500px;
+    height: 260px;
+}
+
+.campo_email {
+    width: 300px;
+    /* border: 2px solid #ccc; */
+    display: inline-block;
+    padding: 4px;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 3px 4px 11px rgb(172, 172, 172);
+  }
+  
+.campo_email > input {
+    margin-left: 5px;
+    width: 200px;
+    border: none;
+    outline: none;
+    overflow: hidden; 
+}
+  
+.campo_email > button {
+    width: 90px;
+    height: 25px;
+    background: rgb(82, 121, 236);
+    border: none;
+    color: #fff;
+    padding: 4px 10px;
+    border-radius: 30px;
+    box-shadow: 1px 1px 10px rgb(158, 158, 158);
+}
+
+.sociais {
+    width: 447px;
+    margin-top: 60px;
+    height: 38px;
+}
+
+.sociais img {
+    width: 38px;
+    height: 38px;
+}
