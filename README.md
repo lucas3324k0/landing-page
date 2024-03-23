@@ -2,7 +2,7 @@
 ## Projeto: Landing page
 
 ### Sobre o Projeto
-O [Nome do Projeto] é um projeto de desenvolvimento web em que estou trabalhando atualmente. O objetivo é criar uma landing page com base no design que foi prototipado no Figma. Você pode conferir o design no [link do projeto no Figma](https://www.figma.com/file/GQpvxPjioFcIS7ckH0A9j5/3d-shape-Landing-page-(Community)?type=design&node-id=15-193&mode=design&t=8GVCOkY3spoNyOpE-0).
+O landinpage é um projeto de desenvolvimento web em que estou trabalhando atualmente. O objetivo é criar uma landing page com base no design que foi prototipado no Figma. Você pode conferir o design no [link do projeto no Figma](https://www.figma.com/file/GQpvxPjioFcIS7ckH0A9j5/3d-shape-Landing-page-(Community)?type=design&node-id=15-193&mode=design&t=8GVCOkY3spoNyOpE-0).
 
 ### Tecnologias Utilizadas
 - HTML
